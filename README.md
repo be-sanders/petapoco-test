@@ -8,14 +8,13 @@ Configuration
 Originally, Microsoft WebMatrix 3
 
 Umbraco 7.76 CMS
-ASP.NET MVC 4 (VS 2010)
-MSSQLSERVER 14.0
+<p>ASP.NET MVC 4 (VS 2010)
+<p>MSSQLSERVER 14.0
 
 NuGet: Install-Package UmbracoCMS
-
-
+<p>
 localhost:52834/umbraco#/umbraco  => system administration screen
-
+<p>
 
 localhost:52834 => Fanoe default screen
 
