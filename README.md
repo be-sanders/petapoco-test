@@ -8,7 +8,7 @@ Configuration
 Originally, Microsoft WebMatrix 3
 
 Umbraco 7.76 CMS
-<p>ASP.NET MVC 4 (VS 2010)
+<p>ASP.NET MVC 4.5 (VS 2017)
 <p>MSSQLSERVER 14.0
 
 NuGet: Install-Package UmbracoCMS
