@@ -19,6 +19,7 @@ NuGet: Install-Package UmbracoCMS
 <p>
 localhost:52834 => Fanoe default screen
 <p>
+  
 1. Create a Contact Template
 2. Create a Contact Document Type
 3. Create a Model to receive the data
