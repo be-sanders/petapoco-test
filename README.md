@@ -13,6 +13,8 @@ Umbraco 7.76 CMS
 
 NuGet: Install-Package UmbracoCMS
 <p>
+URL Endpoints
+-------------
 localhost:52834/umbraco#/umbraco  => system administration screen
 <p>
 
