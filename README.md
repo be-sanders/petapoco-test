@@ -13,8 +13,10 @@ Umbraco 7.76 CMS
 
 NuGet: Install-Package UmbracoCMS
 <p>
-<p>URL Endpoints
-<p>-------------
+  
+URL Endpoints
+-------------
+
 <p>localhost:52834/umbraco#/umbraco  => system administration screen
 <p>
 localhost:52834 => Fanoe default screen
