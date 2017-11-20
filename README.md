@@ -2,8 +2,22 @@
 
 ------
 
+Configuration
+-------------
+
+Originally, Microsoft WebMatrix 3
+
+Umbraco 7.76 CMS
+ASP.NET MVC 4 (VS 2010)
+MSSQLSERVER 14.0
+
+NuGet: Install-Package UmbracoCMS
+
+
 localhost:52834/umbraco#/umbraco  => system administration screen
-localhost:52845 => fanoe default screen
+
+
+localhost:52834 => Fanoe default screen
 
 1. Create a Contact Template
 2. Create a Contact Document Type
