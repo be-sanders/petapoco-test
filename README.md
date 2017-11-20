@@ -13,13 +13,12 @@ Umbraco 7.76 CMS
 
 NuGet: Install-Package UmbracoCMS
 <p>
-URL Endpoints
--------------
+<p>URL Endpoints
+<p>-------------
 localhost:52834/umbraco#/umbraco  => system administration screen
 <p>
-
 localhost:52834 => Fanoe default screen
-
+<p>
 1. Create a Contact Template
 2. Create a Contact Document Type
 3. Create a Model to receive the data
