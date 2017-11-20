@@ -22,9 +22,12 @@ URL Endpoints
 localhost:52834 => Fanoe default screen
 <p>
   
+Steps 
+-----
+
 1. Create a Contact Template
 2. Create a Contact Document Type
-3. Create a Model to receive the data
+3. Create a POCO Model to receive the data
 4. Create a Controller with a method to Render the form
 5. Add a method to the controller to Submit the form
 6. Create a partial view for the Contact form
